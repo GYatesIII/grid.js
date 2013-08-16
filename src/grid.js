@@ -1,4 +1,4 @@
-function CNG_Grid(args) {
+function GRY_Grid(args) {
 	// Defining Defaults, any of these can be passed into the args defition and that will be used instead.
 	var default_width = 150; // The initial widths
 	var default_tolerance = 0.05; // Percentage that we're initially ok with grid items being larger and smaller
