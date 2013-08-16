@@ -104,7 +104,7 @@ The grid does not do any self styling. Instead, it requires the following base s
 }
 ```
 
-Compatibility
+Tested Compatibility
 =======
 
  - IE8+
