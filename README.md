@@ -112,6 +112,7 @@ Future Development Ideas
  - Apply limitless box sizes, allowing any grid square width and height
  - Self style the grid DOM on initialization to remove CSS requirements
  - Add in responsive functionality natively to remove need to manually call `grid_build()` on window resize.
+ - Strip out jQuery reliance
 
   [1]: http://www.lakeshorepaws.org
   [2]: http://www.craneandgrey.com
