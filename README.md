@@ -11,9 +11,9 @@ Usage
 ##Init##
 To create a new grid manager, create a new object:
 
-    var grid = new GRY_Grid(object);
+    var grid = new GY3_Grid(object);
 
-The `GRY_Grid` takes an object with any of the optional following parameters:
+The `GY3_Grid` constructor takes an object with any of the optional following parameters:
 
 **`ideal_width`** - The ideal width in pixels for the box, the box can't be guaranteed to be this wide as the grid adapts to fill its container, but it'll try and get as close as possible. *Default: `150`*
 
